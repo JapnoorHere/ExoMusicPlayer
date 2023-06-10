@@ -10,6 +10,6 @@ dependencies{
 
 }
 
- See tutorial from this youtube link : https://youtu.be/jVFVJU8kTt8
+ See tutorial from my youtube link : https://youtu.be/jVFVJU8kTt8
 
 Hope you like it!
